@@ -1,0 +1,59 @@
+/* Reset CSS */
+:root{
+    --white-color: #fff;
+    --black-color: #000;
+    ---text-color: #333;
+}
+
+*{
+    box-sizing: inherit;
+
+}
+
+html{
+    /* Hack  */
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+
+}
+
+.grib{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.grib__full-width{
+    width: 100%;
+}
+
+.grib__row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header{
+height: 120px;
+background-image: linear-gradient(0, #fe6433, #f53e2d);
+}
+
+.header__navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__navbar-list{
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+.header__navbar-item{
+    display: inline-block; 
+
+}
