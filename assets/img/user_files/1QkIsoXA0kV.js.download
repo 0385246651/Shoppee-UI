@@ -1,0 +1,14 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("UserSignalsClientImpressionEventFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f){"use strict";a=b("getFalcoLogPolicy_DO_NOT_USE")("1968720");c=b("FalcoLoggerInternal").create("user_signals_client_impression_event",a);e.exports=c}),null);
+__d("CometGroupMembersAdminsRootQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5665247703518284"}),null);
+__d("CometMarketplaceSellerAnnouncementCenterContentContainerQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5156325217748820"}),null);
+__d("CometMarketplaceYouAlertsContentContainerQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5075906802518015"}),null);
+__d("CometMarketplaceYouFollowingContentContainerQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5631292450250187"}),null);
+__d("CometMarketplaceYouPromotionsContentContainerQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5156649557745303"}),null);
+__d("CometMarketplaceYouPromotionsV2ContentContainerQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="8039316272808748"}),null);
+__d("GroupsCometViewerContentFlaggedRootQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5036414376458567"}),null);
+__d("MarketplaceBoostedListingsContentContainerQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5306000902779585"}),null);
+__d("MarketplaceCometRelistMultipleItemsDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="7419464421412060"}),null);
+__d("MarketplaceCometRenewMultipleListingsDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="6986639071406121"}),null);
+__d("MarketplaceYouInsightsContentContainerQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5098731250222104"}),null);

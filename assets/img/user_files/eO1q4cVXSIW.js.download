@@ -1,0 +1,5 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("CometAlbumViewerDropdownMenuQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5879335172100025"}),null);
+__d("CometAlbumViewerDropdownMenuQuery$Parameters",["CometAlbumViewerDropdownMenuQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("CometAlbumViewerDropdownMenuQuery_facebookRelayOperation"),metadata:{},name:"CometAlbumViewerDropdownMenuQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("CometAlbumViewerDropdownMenu.entrypoint",["CometAlbumViewerDropdownMenuQuery$Parameters","JSResourceForInteraction"],(function(a,b,c,d,e,f,g){"use strict";a={getPreloadProps:function(a){a=a.albumID;return{queries:{cometAlbumViewerDropdownMenuQueryReference:{parameters:c("CometAlbumViewerDropdownMenuQuery$Parameters"),variables:{albumID:a}}}}},root:c("JSResourceForInteraction")("CometAlbumViewerDropdownMenu.react").__setRef("CometAlbumViewerDropdownMenu.entrypoint")};b=a;g["default"]=b}),98);
